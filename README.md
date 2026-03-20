@@ -1,2 +1,2 @@
-# API24-7
+# lac-textures
 Guarda textura 
